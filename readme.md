@@ -5,37 +5,37 @@ Este proyecto es un Sistema de Empleados que permite la gestión de usuarios, em
 
 ## Capturas de Pantalla
 - Inicio de Sesión
-![Inicio de Sesión](CRUD-empleados-PHP/modulos/img/login.png)
+![Inicio de Sesión](Modulos/img/login.png)
 
 - Lista de Empleados
-![Lista de Empleados](modulos/img/empleadosListar.png)
+![Lista de Empleados](Modulos/img/empleadosListar.png)
 
 - Lista de Usuarios
-![Lista de Usuarios](modulos/img/usuariosListar.png)
+![Lista de Usuarios](Modulos/img/usuariosListar.png)
 
 - Lista de Cargos
-![Lista de Cargos](modulos/img/cargosListar.png)
+![Lista de Cargos](Modulos/img/cargosListar.png)
 
 - Agregar Empleados
-![Agregar Empleados](modulos/img/empleadosAgregar.png)
+![Agregar Empleados](Modulos/img/empleadosAgregar.png)
 
 - Agregar Usuarios
-![Agregar Usuarios](modulos/img/usuariosAgregar.png)
+![Agregar Usuarios](Modulos/img/usuariosAgregar.png)
 
 - Agregar Cargos
-![Agregar Cargos](modulos/img/cargosAgregar.png)
+![Agregar Cargos](Modulos/img/cargosAgregar.png)
 
 - Editar Cargos
-![Editar Cargos](modulos/img/cargosEditar.png)
+![Editar Cargos](Modulos/img/cargosEditar.png)
 
 - Eliminar Empleados
-![Editar Cargos](modulos/img/empleadosEliminar.png)
+![Editar Cargos](Modulos/img/empleadosEliminar.png)
 
 - Buscar Usuarios
-![Buscar Usuarios](modulos/img/usuariosBuscar.png)
+![Buscar Usuarios](Modulos/img/usuariosBuscar.png)
 
 - Carta de Recomendación en PDF
-![Carta de Recomendación en PDF](modulos/img/cartaRecomendacion.png)
+![Carta de Recomendación en PDF](Modulos/img/cartaRecomendacion.png)
 
 ## Funcionalidades
 El sistema incluye los siguientes módulos y características:
