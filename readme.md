@@ -5,7 +5,7 @@ Este proyecto es un Sistema de Empleados que permite la gestión de usuarios, em
 
 ## Capturas de Pantalla
 - Inicio de Sesión
-![Inicio de Sesión](modulos/img/login.png)
+![Inicio de Sesión](CRUD-empleados-PHP/modulos/img/login.png)
 
 - Lista de Empleados
 ![Lista de Empleados](modulos/img/empleadosListar.png)
